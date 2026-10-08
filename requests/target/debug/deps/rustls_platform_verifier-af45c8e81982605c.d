@@ -1,0 +1,8 @@
+C:\Users\olive\code\rust\rust\requests\target\debug\deps\rustls_platform_verifier-af45c8e81982605c.d: C:\Users\olive\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\rustls-platform-verifier-0.7.1\src\lib.rs C:\Users\olive\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\rustls-platform-verifier-0.7.1\src\verification\mod.rs C:\Users\olive\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\rustls-platform-verifier-0.7.1\src\verification\windows.rs C:\Users\olive\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\rustls-platform-verifier-0.7.1\src\../README.md
+
+C:\Users\olive\code\rust\rust\requests\target\debug\deps\librustls_platform_verifier-af45c8e81982605c.rmeta: C:\Users\olive\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\rustls-platform-verifier-0.7.1\src\lib.rs C:\Users\olive\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\rustls-platform-verifier-0.7.1\src\verification\mod.rs C:\Users\olive\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\rustls-platform-verifier-0.7.1\src\verification\windows.rs C:\Users\olive\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\rustls-platform-verifier-0.7.1\src\../README.md
+
+C:\Users\olive\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\rustls-platform-verifier-0.7.1\src\lib.rs:
+C:\Users\olive\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\rustls-platform-verifier-0.7.1\src\verification\mod.rs:
+C:\Users\olive\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\rustls-platform-verifier-0.7.1\src\verification\windows.rs:
+C:\Users\olive\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\rustls-platform-verifier-0.7.1\src\../README.md:
